@@ -2,11 +2,11 @@ Let the games begin.
 
 Locate the green button that says
 
-    `New Pull Request`
+    New Pull Request
 
 To the right of that is an in put field with a url. Copy that url. Consider that url a variable.  Go into bash, cd into Documents, and type
 
-    `git clone url`
+    git clone url
 
 Wait for the repo to download, then cd into `masonPingPong`. Open that directory into your favorite text editor, open the readme.md file, and type in an answer to this question:
 

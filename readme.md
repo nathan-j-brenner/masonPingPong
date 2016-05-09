@@ -11,7 +11,7 @@ To the right of that is an in put field with a url. Copy that url. Consider that
 Wait for the repo to download, then cd into `masonPingPong`. Open that directory into your favorite text editor, open the readme.md file, and type in an answer to this question:
 
 What website do you use as a reference to writing markdown?
-I'm not sure what markdown is. 
+[This one.](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 
 After you answer that question, type the following (this should sound familiar, and since you have this repo, I'll not say it so much):
 

@@ -32,7 +32,7 @@ Let me know if you get stuck.
 
 
 ## Round 2
-Mardown is really easy way to write code, a lot of software is documented in markdown.  The website above gives you some ways to add styles without writing html, but you can write html in `*.md` or `*.markdown` files.
+Markdown is really easy way to write code, a lot of software is documented in markdown.  The website above gives you some ways to add styles without writing html, but you can write html in `*.md` or `*.markdown` files.
 
 To recap what you've already done: You've cloned a remote repo.  Essentially you're making a copy of the remote, and saving it on your computer for you to work on.  That copy on your computer is the local copy. The remote is in this case on gitHub, which is basically the cloud.
 
@@ -42,7 +42,10 @@ Make sure you're located (in bash) in the directory (by the way, I often say rep
 
     git Pull
 
-wait a second...but something shouldn't work.  You should see some sort of error.  Read the error message in bash and try to debug the issue.  Ask me for help when you're too frustrated, and before you commit/push your copy back up to the remote, answer these questions (and add the markdown syntax to make them bold, look at the website I mentioned above):
+wait a second...but something shouldn't work.  You should see some sort of error.
+### No errors found. System reports "Already up to date." in response to git pull command. 
+
+Read the error message in bash and try to debug the issue.  Ask me for help when you're too frustrated, and before you commit/push your copy back up to the remote, answer these questions (and add the markdown syntax to make them bold, look at the website I mentioned above):
 
 What was the problem?
 

@@ -72,6 +72,7 @@ Now switch to the mason branch: `git checkout mason`
 What you've done is copied the code in your remote master branch into new branch. Create a new file `hello.js`. Inside that file, write on the first line `console.log('hello world!')`.  Save that file, git add, commit, and even cooler since you have node downloaded, type `node hello.js`, then hit `enter` in bash. Under the next question, answer the question.  Style your response with a single underscore before your text and after your text (it makes it easier for me to figure out what you did);
 
 What happened when you ran that command?
+_JS executed within the command terminal, printed string_
 
 After you text the response, (I won't say git add, git status, git commit...etc, just commit but I mean essentially the same thing), commit your changes, then switch back to the master branch just like you switched to the mason branch. Now look at the code.  (type after the question with the underscores)
 

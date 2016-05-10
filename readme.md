@@ -31,7 +31,7 @@ git push
 Let me know if you get stuck.
 
 
-## Round 2
+## Round 2  
 Markdown is really easy way to write code, a lot of software is documented in markdown.  The website above gives you some ways to add styles without writing html, but you can write html in `*.md` or `*.markdown` files.
 
 To recap what you've already done: You've cloned a remote repo.  Essentially you're making a copy of the remote, and saving it on your computer for you to work on.  That copy on your computer is the local copy. The remote is in this case on gitHub, which is basically the cloud.
@@ -72,6 +72,8 @@ Now switch to the mason branch: `git checkout mason`
 What you've done is copied the code in your remote master branch into new branch. Create a new file `hello.js`. Inside that file, write on the first line `console.log('hello world!')`.  Save that file, git add, commit, and even cooler since you have node downloaded, type `node hello.js`, then hit `enter` in bash. Under the next question, answer the question.  Style your response with a single underscore before your text and after your text (it makes it easier for me to figure out what you did);
 
 What happened when you ran that command?
+_JS executes within cmd terminal, prints string to console_
+
 
 After you text the response, (I won't say git add, git status, git commit...etc, just commit but I mean essentially the same thing), commit your changes, then switch back to the master branch just like you switched to the mason branch. Now look at the code.  (type after the question with the underscores)
 

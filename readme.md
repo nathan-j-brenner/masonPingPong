@@ -63,7 +63,7 @@ Merge conflicts suck.  Developers, like you said, are introverts, but they are a
 All devs work from their own branch, which they title by their name.  For example: the "nate" branch.
 First list what branches you have currently on your remote repo:
 
-    `git branch`
+    git branch
 
 Next, create a new branch: `git branch mason`
 

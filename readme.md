@@ -77,4 +77,6 @@ After you text the response, (I won't say git add, git status, git commit...etc,
 
 What was different?
 
+_changes aren't there_ 
+
 Each branch keeps different code, so you need to merge the mason branch with the master branch. Type `git merge mason`.  Merging the mason branch with the master branch combines the stuff that is different from the mason branch with the master branch, and you can get merge conflicts here to. Next, `git push`, then bug me so I take a look at what you've done.

@@ -1,5 +1,5 @@
 (function(){
-    var feeling = ["sensational", "stupendous", "obsessive compulsive"];
+    var feelings = ["sensational", "stupendous", "obsessive compulsive"];
 
     var rand = Math.floor(Math.random()*(arr.length+1));
 

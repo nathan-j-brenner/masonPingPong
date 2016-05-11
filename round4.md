@@ -19,3 +19,7 @@ There's some es6 code in the console.log method (Where it says backticks, add in
 And replace the values in the feelings array with something more interesting.
 
 Run the `node feelings.js` Contribute to this file the bash responded with, then commit, and try `git push`.  It probably won't work.  Read the error carefully and figure out how to get it to work.  Once it does, go up to the repo, and dig around for a button that says `New pull request`.  Figure out how to make a pull request, but don't complete it. Tell me when you get to this point.
+
+_got to the point where I could push feelings.js, but then wasn't able to figure out what you mean by "go up to the repo" Do you mean within the console, or somewhere else?_
+
+_one more question, should be be attempting to merge with the master branch, or leave those files unmerged for the time being?_

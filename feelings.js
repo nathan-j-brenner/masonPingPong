@@ -1,8 +1,13 @@
 (function(){
-    var feeling = ["sensational", "stupendous", "obsessive compulsive"];
+    var feelings = {
+        "Monday": ["sensational", "stupendous", "obsessive compulsive"];
+    }
 
-    var rand = Math.floor(Math.random()*(arr.length+1));
+    var rand;
 
-    console.log(`I am feeling rand`);
+    for (var i = 0; i < 5; i++) {
+        rand = Math.floor(Math.random()*(feelings.length+1));
+        console.log(`I am feeling ${feelings[rand]}.`);
+    }
 
 })()
